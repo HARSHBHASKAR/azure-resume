@@ -1,5 +1,5 @@
 # azure-resume
-My own azure resume.
+My own Azure resume.
 
 ## First steps
 
@@ -8,6 +8,5 @@ My own azure resume.
 
 ```js
 const functionApi = ''; 
-Responsible for collecting API from Azure Functions JSON.
-
 ```
+- Responsible for collecting API from Azure Functions JSON.
